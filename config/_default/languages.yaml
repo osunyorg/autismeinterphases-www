@@ -9,6 +9,18 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            autisme.interphases@gmail.com
+          value: >-
+            mailto:autisme.interphases@gmail.com
+      social_networks:
+        facebook:
+          label: >-
+            profile.php?id=100069512093124
+          value: >-
+            https://www.facebook.com/profile.php?id=100069512093124
 
   taxonomies:
     administrator: administrators
